@@ -1,0 +1,6 @@
+# K线回放系统依赖
+# 核心功能无需任何外部依赖，仅使用Python标准库
+
+# 可选依赖：用于生成回测报告图表
+# 安装命令：pip install matplotlib
+matplotlib>=3.5.0
